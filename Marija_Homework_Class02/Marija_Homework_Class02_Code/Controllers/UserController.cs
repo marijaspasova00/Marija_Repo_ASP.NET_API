@@ -55,5 +55,6 @@ namespace Marija_Homework_Class02_Code.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, "An error occured, contact the admin!");
             }
         }
+
     }
 }

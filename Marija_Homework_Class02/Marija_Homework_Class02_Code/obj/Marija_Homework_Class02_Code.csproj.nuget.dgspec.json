@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\Marija_Homework_Class02\\Marija_Homework_Class02_Code\\Marija_Homework_Class02_Code.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\Marija_Repo_ASP.NET_API\\Marija_Homework_Class02\\Marija_Homework_Class02_Code\\Marija_Homework_Class02_Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\Marija_Homework_Class02\\Marija_Homework_Class02_Code\\Marija_Homework_Class02_Code.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\Marija_Repo_ASP.NET_API\\Marija_Homework_Class02\\Marija_Homework_Class02_Code\\Marija_Homework_Class02_Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\Marija_Homework_Class02\\Marija_Homework_Class02_Code\\Marija_Homework_Class02_Code.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Marija_Repo_ASP.NET_API\\Marija_Homework_Class02\\Marija_Homework_Class02_Code\\Marija_Homework_Class02_Code.csproj",
         "projectName": "Marija_Homework_Class02_Code",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\Marija_Homework_Class02\\Marija_Homework_Class02_Code\\Marija_Homework_Class02_Code.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Marija_Repo_ASP.NET_API\\Marija_Homework_Class02\\Marija_Homework_Class02_Code\\Marija_Homework_Class02_Code.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\Marija_Homework_Class02\\Marija_Homework_Class02_Code\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Marija_Repo_ASP.NET_API\\Marija_Homework_Class02\\Marija_Homework_Class02_Code\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

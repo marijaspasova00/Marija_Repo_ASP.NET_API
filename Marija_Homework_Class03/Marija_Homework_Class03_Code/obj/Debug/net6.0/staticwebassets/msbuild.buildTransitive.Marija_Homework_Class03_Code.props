@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Marija_Homework_Class03_Code.props" />
+</Project>
