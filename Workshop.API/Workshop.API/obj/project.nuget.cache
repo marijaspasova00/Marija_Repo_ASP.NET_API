@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LxwtG36eUARL+Z3+BIHY+L1qOUYVKPAgtG5EoWC65sc+nnYNxxs4NnBV9TEJt4G4tNG7HzFCtnIiVabqRpQ43w==",
+  "dgSpecHash": "isL0HXaMuKPg6HSXgv2h1Xsdnop9UnnZ1Tzy3w9POLviCCbqakJZTBTrFhnltUMj6goMkwcqMAqS2RAXsjWFDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\Workshop.API\\Workshop.API\\Workshop.API.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Marija_Repo_ASP.NET_API\\Workshop.API\\Workshop.API\\Workshop.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

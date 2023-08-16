@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\Workshop.API\\Workshop.API\\Workshop.API.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\Marija_Repo_ASP.NET_API\\Workshop.API\\Workshop.API\\Workshop.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\Workshop.API\\Workshop.API\\Workshop.API.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\Marija_Repo_ASP.NET_API\\Workshop.API\\Workshop.API\\Workshop.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\Workshop.API\\Workshop.API\\Workshop.API.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Marija_Repo_ASP.NET_API\\Workshop.API\\Workshop.API\\Workshop.API.csproj",
         "projectName": "Workshop.API",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\Workshop.API\\Workshop.API\\Workshop.API.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Marija_Repo_ASP.NET_API\\Workshop.API\\Workshop.API\\Workshop.API.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\Workshop.API\\Workshop.API\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Marija_Repo_ASP.NET_API\\Workshop.API\\Workshop.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
